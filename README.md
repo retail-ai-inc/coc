@@ -7,7 +7,7 @@ We aim to foster a helpful and empowering environment for all, regardless of lev
 This code of conduct applies to all aspects of our development and works, including, but not limited to:
 
 - Online platforms (social media, chatrooms, mailing lists).
-- In-person events (meetings, social gatherings, business trips, conferences, camps).
+- In-person events (meetings, social gatherings, trips, conferences, camps).
 - One-on-one communications.
 - Open source projects.
 - Internal, external, and public project spaces.
