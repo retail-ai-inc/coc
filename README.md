@@ -1,5 +1,6 @@
 # Code of Conduct (CoC)
 
+## Pledge
 We aim to foster a helpful and empowering environment for all, regardless of level of experience, age, gender identity and expression, sexual orientation, disability, personal appearance, body size, race, ethnicity, religion, nationality, education, or other similar characteristics. Remember that mistakes are a part of being human; we all make mistakes sometimes. We can work together to address mistakes, learn, and grow by listening to others, self-reflection, and corrective action.
 
 ## Scope
